@@ -4,165 +4,18 @@
   <void method="add">
    <object class="first.model.Person">
     <void property="age">
-     <int>20</int>
-    </void>
-    <void property="name">
-     <string>Almir</string>
-    </void>
-    <void property="nin">
-     <string>1</string>
-    </void>
-    <void property="surname">
-     <string>Mustafić</string>
-    </void>
-   </object>
-  </void>
-  <void method="add">
-   <object class="first.model.Person">
-    <void property="age">
-     <int>10</int>
-    </void>
-    <void property="name">
-     <string>Zana</string>
-    </void>
-    <void property="nin">
-     <string>2</string>
-    </void>
-    <void property="surname">
-     <string>Sujoldžić</string>
-    </void>
-   </object>
-  </void>
-  <void method="add">
-   <object class="first.model.Person">
-    <void property="age">
-     <int>13</int>
-    </void>
-    <void property="name">
-     <string>Ivana</string>
-    </void>
-    <void property="nin">
-     <string>3</string>
-    </void>
-    <void property="surname">
-     <string>Šuligoj</string>
-    </void>
-   </object>
-  </void>
-  <void method="add">
-   <object class="first.model.Person">
-    <void property="age">
-     <int>50</int>
-    </void>
-    <void property="name">
-     <string>Adnan</string>
-    </void>
-    <void property="nin">
-     <string>4</string>
-    </void>
-    <void property="surname">
-     <string>Husika</string>
-    </void>
-   </object>
-  </void>
-  <void method="add">
-   <object class="first.model.Person">
-    <void property="age">
-     <int>60</int>
+     <int>43</int>
     </void>
     <void property="name">
      <string>Osman</string>
     </void>
     <void property="nin">
-     <string>5</string>
+     <string>98765</string>
     </void>
     <void property="surname">
      <string>Bučan</string>
     </void>
    </object>
-  </void>
-  <void method="add">
-   <object class="first.model.Person">
-    <void property="age">
-     <int>20</int>
-    </void>
-    <void property="name">
-     <string>Adnan</string>
-    </void>
-    <void property="nin">
-     <string>6</string>
-    </void>
-    <void property="surname">
-     <string>Ćenanović</string>
-    </void>
-   </object>
-  </void>
-  <void method="add">
-   <object class="first.model.Person">
-    <void property="age">
-     <int>43</int>
-    </void>
-    <void property="name">
-     <string>Slavko</string>
-    </void>
-    <void property="nin">
-     <string>7</string>
-    </void>
-    <void property="surname">
-     <string>Kosorić</string>
-    </void>
-   </object>
-  </void>
-  <void method="add">
-   <object class="first.model.Person">
-    <void property="age">
-     <int>20</int>
-    </void>
-    <void property="name">
-     <string>Lejla</string>
-    </void>
-    <void property="nin">
-     <string>8</string>
-    </void>
-    <void property="surname">
-     <string>Smailagić</string>
-    </void>
-   </object>
-  </void>
-  <void method="add">
-   <object class="first.model.Person">
-    <void property="age">
-     <int>30</int>
-    </void>
-    <void property="name">
-     <string>Sabrija</string>
-    </void>
-    <void property="nin">
-     <string>9</string>
-    </void>
-    <void property="surname">
-     <string>Mustafić</string>
-    </void>
-   </object>
-  </void>
-  <void method="add">
-   <object class="first.model.Person" id="Person0">
-    <void property="age">
-     <int>20</int>
-    </void>
-    <void property="name">
-     <string>Elmedin</string>
-    </void>
-    <void property="nin">
-     <string>10</string>
-    </void>
-    <void property="surname">
-     <string>Bešlagić</string>
-    </void>
-   </object>
-  </void>
-  <void method="add">
-   <object idref="Person0"/>
   </void>
  </object>
 </java>

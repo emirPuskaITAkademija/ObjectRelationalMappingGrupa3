@@ -3,6 +3,7 @@ package second;
 import first.dao.PersistenceStrategy;
 import first.dao.PersonDAO;
 import first.dao.file.FileDAO;
+import first.dao.json.JsonDao;
 import first.dao.serializable.SerializableDAO;
 import first.dao.xml.XmlDAO;
 import first.model.Person;
@@ -13,7 +14,8 @@ import java.util.List;
 public class SecondApp {
 
     public static void main(String[] args) {
-        PersonDAO dao = new XmlDAO();
+        PersonDAO dao = new JsonDao();
+        //new XmlDAO();
         //new FileDAO();
         //new SerializableDAO();
         PersistenceStrategy persistenceStrategy = new PersistenceStrategy(dao);
