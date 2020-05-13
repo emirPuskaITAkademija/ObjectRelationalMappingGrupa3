@@ -1,0 +1,10 @@
+1;Almir;Mustafić;20
+2;Zana;Sujoldžić;10
+3;Ivana;Šuligoj;13
+4;Adnan;Husika;50
+5;Osman;Bučan;60
+6;Adnan;Ćenanović;20
+7;Slavko;Kosorić;43
+8;Lejla;Smailagić;20
+9;Sabrija;Mustafić;30
+10;Elmedin;Bešlagić;20
